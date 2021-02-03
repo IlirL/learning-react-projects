@@ -1,0 +1,15 @@
+
+.login_sign{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.meine_button{
+    background-color: blue;
+    width: 50%;
+    height: 10%;
+    border-radius: 20px;
+}
